@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+
+body{
+	background-color: #333;
+}
+.unauth{
+	margin-top: calc(30vh - 56px);
+	color: #fff;
+}
+.unauth h1{
+	font-family: 'Russo One';
+	font-size: 3rem;
+	text-align: center;
+}
+.unauth p{
+	font-family: 'Cormorant Garamond';
+	font-size: 1.6rem;
+	text-align: center;
+}

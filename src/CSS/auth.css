@@ -1,0 +1,14 @@
+body{
+	background-color: #87cefa;
+}
+.auth{
+	margin: 75px auto 0;
+	padding: 40px;
+	width: min(60%,500px);
+	background-color: #fff;
+	border: 3px solid #444;
+	border-radius: 40px;
+}
+.auth h2{
+	margin-bottom: 20px;
+}
